@@ -1,2 +1,2 @@
 #!/bin/bash
-q iacta
+tail -ni 1 < iacta >> iacta
